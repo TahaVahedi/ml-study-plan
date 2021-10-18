@@ -52,6 +52,7 @@ Watch the video on YouTube for instructions:
 - [ ] [Stanford Lecture - Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 - [ ] Learn PyTorch (or Tensorflow)
     - [ ] [pytorch.org official Tutorials](https://pytorch.org/tutorials/)
+    - [ ] [pytorch full course](https://www.youtube.com/watch?v=GIsg-ZUy0MY)
     - [ ] [PyTorch Free Course on YouTube (Python Engineer)](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
 - [ ] fast.ai - Free Courses
     - [ ] [Practical Deep Learning for Coders Part 1](https://www.fast.ai/)
